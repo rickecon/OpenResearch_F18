@@ -15,9 +15,10 @@
 Familiarity coding in either Python or R, basic understading of `Git` and [GitHub.com](https://github.com/).
 
 
-## Recommended Texts (not required) ##
+## Recommended Texts ##
 
 * Chacon, Scott and Ben Straub, [*Pro Git: Everything You Need to Know about Git*](https://git-scm.com/book/en/v2), 2nd edition, Apress (2014).
+* Fogel, Karl, [*Producing Open Source Software: How to Run a Successful Free Software Project*](https://producingoss.com/), 2nd edition, version 2017-01-11 (2017).
 
 
 ## Course description ##
@@ -106,6 +107,7 @@ Project paper                |   20   |    25.0%   |
 ## References ##
 
 * Chacon, Scott and Ben Straub, [*Pro Git: Everything You Need to Know about Git*](https://git-scm.com/book/en/v2), 2nd edition, Apress (2014).
+* Fogel, Karl, [*Producing Open Source Software: How to Run a Successful Free Software Project*](https://producingoss.com/), 2nd edition, version 2017-01-11 (2017).
 
 
 ## Disability services ##
