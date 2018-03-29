@@ -23,7 +23,7 @@ Familiarity coding in either Python or R, basic understading of `Git` and [GitHu
 
 ## Course description ##
 
-The purpose of this course is to give students experience in the broad set of skills and tools for managing, collaborating on, and contributing to open source research projects. Transparency and replicability of research have received renewed emphasis in recent years due to the increased prevalence and sophistication of empirical and computational methods as well as the increased availability of large high frequency data sources. This course focuses on the open source programming languages of Python and R, but the principles could be applied to projects using any language.
+The purpose of this course is to give students experience in the broad set of skills and tools for managing, collaborating on, and contributing to open source research projects. Transparency and replicability of research have received renewed emphasis in recent years due to the increased prevalence and sophistication of empirical and computational methods as well as the increased availability of large high frequency data sources. This course focuses on the open source programming languages of Python and R, but the principles can be applied to projects using any language.
 
 The course will present the common open source software development workflow as an efficient structure for collaborative academic research. We will learn `Git` and GitHub basic tools and methods. We will practice multiple levels of documentation ranging from in-code docstrings to full PDF and HTML documentation tools. Students will implement continuous integration testing and regression testing in their own open source repositories. And students will learn how to set an environment with specific library and package versions. We will also discuss methods for anonymizing propietary data or creating synthetic datasets that can be used by the general public.
 
@@ -52,7 +52,7 @@ The course will present the common open source software development workflow as 
 	* Separate papers, technical appendices
 * Replicability
 	* Setting the environment
-	* synthetic/dymmy data for proprietary data
+	* synthetic/dummy data for proprietary data
 	* writing packages
 	* Replicating a project
 
