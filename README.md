@@ -1,4 +1,4 @@
-## MACS 40?00: Open Research Methods (Fall 2018) ##
+## MACS 40300: Open Research Methods (Fall 2018) ##
 
 |  | [Dr. Richard Evans](https://sites.google.com/site/rickecon/) |
 |--------------|--------------------------------------------------------------|
@@ -54,6 +54,7 @@ The course will present the common open source software development workflow as 
 	* Setting the environment
 	* synthetic/dymmy data for proprietary data
 	* writing packages
+	* Replicating a project
 
 
 <!--- ## Grades ##
